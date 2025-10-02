@@ -1,40 +1,68 @@
-# Hi 👋, I'm Sweety Mahale
+## Hey 👋, I'm Sweety Mahale!  
+  
 
-**AI/ML Engineer**
+<a href="https://github.com/sweety-mahale" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/sweety-mahale23" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
 
-## 👀 I'm interested in
 
-Data Science, Machine Learning, Deep Learning, Web Development
 
-## 👀 Visitor Count
+### Glad to see you here!  
+I’m an AI/ML Engineer passionate about building intelligent systems that solve real-world problems. With expertise in machine learning, deep learning, and data-driven solutions, I design models that not only analyze and predict but also adapt and evolve.
 
-<!-- ⚠️ Important: Replace 'sweety-mahale' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/sweety-mahale/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
+I specialize in developing end-to-end solutions—from data collection, cleaning, and visualization to model development, deployment, and cloud scaling. My work spans NLP, computer vision, and agentic AI, with a strong focus on delivering efficient, reliable, and production-ready applications.  
+  
 
-## 🔝 Most Used Languages
+<br/>  
 
-<!-- ⚠️ Important: Replace 'sweety-mahale' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweety-mahale&layout=compact&langs_count=10&theme=default"/>
-</div>
 
-## 🔥 Contribution Streak
+## Languages and Tools  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" /></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /></a> 
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="35" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" /></a>    
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="35" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="35" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="35" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="35" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="35" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="35" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="35" /></a>  
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="35" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="35" /></a>  
+</div>  
 
-<!-- ⚠️ Important: Replace 'sweety-mahale' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sweety-mahale&theme=default&hide_border=false" />
-</div>
+<br/>  
 
-## 🌐 Socials
 
-<div align="center">
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sweety-mahale23) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/sweety-mahale) 
+<img src="https://github-readme-stats.vercel.app/api?username=sweety-mahale&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</div>
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweety-mahale&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
 
 ## 📫 How to reach me
 
@@ -42,17 +70,11 @@ Data Science, Machine Learning, Deep Learning, Web Development
 
 📧 **Email:** [sweetymahale23@gmail.com](mailto:sweetymahale23@gmail.com)
 
-📱 **Phone:** +918109199478
 
 </div>
 
 ---
 ⭐️ From [Sweety Mahale](https://github.com/sweety-mahale)
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sweety-mahale/count.svg" alt="Visitor Count" />
-</div>
 
 
 <!--
