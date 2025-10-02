@@ -56,14 +56,6 @@ I specialize in developing end-to-end solutions—from data collection, cleaning
 
 <br/>  
 
-  
-
-<br/>  
-
-
-<br />
-
-
 ## 📫 How to reach me
 
 <div align="left">
