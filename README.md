@@ -45,16 +45,6 @@ I specialize in developing end-to-end solutions—from data collection, cleaning
 
 ---
 
-## 📊 GitHub Stats  
-
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=sweety-mahale&show_icons=true&count_private=true&theme=radical&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweety-mahale&theme=radical&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table>  
-
----
-
 ## 📫 How to reach me  
 
 - 📧 **Email:** [sweetymahale23@gmail.com](mailto:sweetymahale23@gmail.com)  
